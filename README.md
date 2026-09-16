@@ -1,5 +1,7 @@
 # 🐰🦊 Predator–Prey Ecosystem Simulation  
 
+> Part of a two-project series from my Modeling Complex Systems class — see it alongside [Airport Queue Optimization](https://github.com/alexia-moreanu/airport-queue-optimization) in [alexia-moreanu/modeling-complex-systems](https://github.com/alexia-moreanu/modeling-complex-systems).
+
 ---
 
 ## 📌 Overview
